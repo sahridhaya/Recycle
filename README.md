@@ -34,7 +34,7 @@ along with regression analysis and optimization of the same were other requireme
 have identified. In our project, we would include:-
 
 * Data collection from various organisations, government bodies, health inspectors and
-Green Army volunteers across the city. (Ref. 1)
+Green Army volunteers across the city.
 * Engaging with recognised organisations in the field of solid waste management to
 identify Key Performance Indicators.
 * Identifying and generating models to optimize the new technologies that were
