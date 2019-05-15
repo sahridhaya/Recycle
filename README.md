@@ -12,7 +12,7 @@
 
 ## **Our Project**
 
-    Thiruvananthapuram Municipal Corporation (TMC) has been following decentralized
+Thiruvananthapuram Municipal Corporation (TMC) has been following decentralized
 solid waste management and encourages on-site management of biodegradable discards since
 2013. We were able to understand that the major initiatives in Thiruvananthapuram city over
 the last 3 years were regarding solid waste management and to turn it into a green city. The
@@ -26,7 +26,7 @@ practices in an urban environment
 4. Waste management awareness festivals
 5. Zero waste ward initiative
     
-    Our team identified a need for an impact analysis of these initiatives and
+Our team identified a need for an impact analysis of these initiatives and
 generate performance models that could be used to implement the above initiatives in other
 districts in Kerala. Multiple innovative solid waste management technologies were also
 implemented along with the drive in different parts of Trivandrum, and the impact analysis
