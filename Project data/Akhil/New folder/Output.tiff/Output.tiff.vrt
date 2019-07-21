@@ -1,0 +1,62 @@
+<VRTDataset rasterXSize="842" rasterYSize="780">
+  <SRS>PROJCS["WGS 84 / Pseudo-Mercator",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Mercator_1SP"],PARAMETER["central_meridian",0],PARAMETER["scale_factor",1],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["X",EAST],AXIS["Y",NORTH],EXTENSION["PROJ4","+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs"],AUTHORITY["EPSG","3857"]]</SRS>
+  <GeoTransform>  8.5356232222000007e+06,  7.9998699999999999e+01,  0.0000000000000000e+00,  9.8931870340000000e+05,  0.0000000000000000e+00, -8.0028300000000002e+01</GeoTransform>
+  <VRTRasterBand dataType="Byte" band="1">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">254</MDI>
+      <MDI key="STATISTICS_MEAN">218.39359235381</MDI>
+      <MDI key="STATISTICS_MINIMUM">52</MDI>
+      <MDI key="STATISTICS_STDDEV">32.6874029258</MDI>
+    </Metadata>
+    <ColorInterp>Red</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">Output.tiff.0.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="842" RasterYSize="780" DataType="Byte" BlockXSize="842" BlockYSize="780" />
+      <SrcRect xOff="0" yOff="0" xSize="842" ySize="780" />
+      <DstRect xOff="0" yOff="0" xSize="842" ySize="780" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="2">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">250</MDI>
+      <MDI key="STATISTICS_MEAN">227.14379029522</MDI>
+      <MDI key="STATISTICS_MINIMUM">56</MDI>
+      <MDI key="STATISTICS_STDDEV">17.127584200589</MDI>
+    </Metadata>
+    <ColorInterp>Green</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">Output.tiff.0.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="842" RasterYSize="780" DataType="Byte" BlockXSize="842" BlockYSize="780" />
+      <SrcRect xOff="0" yOff="0" xSize="842" ySize="780" />
+      <DstRect xOff="0" yOff="0" xSize="842" ySize="780" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="3">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">248</MDI>
+      <MDI key="STATISTICS_MEAN">225.47090261283</MDI>
+      <MDI key="STATISTICS_MINIMUM">35</MDI>
+      <MDI key="STATISTICS_STDDEV">16.349835842524</MDI>
+    </Metadata>
+    <ColorInterp>Blue</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">Output.tiff.0.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="842" RasterYSize="780" DataType="Byte" BlockXSize="842" BlockYSize="780" />
+      <SrcRect xOff="0" yOff="0" xSize="842" ySize="780" />
+      <DstRect xOff="0" yOff="0" xSize="842" ySize="780" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="4">
+    <ColorInterp>Alpha</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">Output.tiff.0.tif</SourceFilename>
+      <SourceBand>4</SourceBand>
+      <SourceProperties RasterXSize="842" RasterYSize="780" DataType="Byte" BlockXSize="842" BlockYSize="780" />
+      <SrcRect xOff="0" yOff="0" xSize="842" ySize="780" />
+      <DstRect xOff="0" yOff="0" xSize="842" ySize="780" />
+    </SimpleSource>
+  </VRTRasterBand>
+</VRTDataset>
