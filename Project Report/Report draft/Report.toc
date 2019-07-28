@@ -1,0 +1,17 @@
+\contentsline {chapter}{\numberline {1}\textbf {Introduction}}{3}{chapter.1}% 
+\contentsline {chapter}{\numberline {2}\textbf {About the Area Under Study}}{5}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Thiruvananthapuram City - An Overview}{5}{section.2.1}% 
+\contentsline {chapter}{\numberline {3}\textbf {Waste Management Systems}}{6}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Centralised}{6}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Decentralised}{7}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}Overflow System}{7}{section.3.3}% 
+\contentsline {chapter}{\numberline {4}\textbf {Date Collection Process}}{8}{chapter.4}% 
+\contentsline {chapter}{\numberline {5}\textbf {Data Analysis}}{10}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Waste Inflow and Outflow over Time}{10}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}Waste Processing Capability}{11}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}Waste Inflow from Collected Data}{12}{section.5.3}% 
+\contentsline {section}{\numberline {5.4}Waste Generation Density}{12}{section.5.4}% 
+\contentsline {chapter}{\numberline {6}\textbf {Mathematical Model}}{15}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Optimal Number of Bins in each Ward}{16}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}Suggested Locations of Bins in each Ward}{18}{section.6.2}% 
+\contentsline {chapter}{\numberline {7}\textbf {Inference}}{20}{chapter.7}% 
