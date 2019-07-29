@@ -1,0 +1,24 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Scope of Study}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Thiruvananthapuram City - An Overview}{chapter.2}% 3
+\BOOKMARK [1][-]{section.2.2}{Solid Waste}{chapter.2}% 4
+\BOOKMARK [2][-]{subsection.2.2.1}{Types of Solid Wastes}{section.2.2}% 5
+\BOOKMARK [0][-]{chapter.3}{Waste Management Systems}{}% 6
+\BOOKMARK [1][-]{section.3.1}{Centralized}{chapter.3}% 7
+\BOOKMARK [2][-]{subsection.3.1.1}{Waste Management in India}{section.3.1}% 8
+\BOOKMARK [1][-]{section.3.2}{Decentralized}{chapter.3}% 9
+\BOOKMARK [1][-]{section.3.3}{Overflow System}{chapter.3}% 10
+\BOOKMARK [2][-]{subsection.3.3.1}{Aerobic Bin}{section.3.3}% 11
+\BOOKMARK [0][-]{chapter.4}{Data Collection Process}{}% 12
+\BOOKMARK [0][-]{chapter.5}{Data Analysis}{}% 13
+\BOOKMARK [1][-]{section.5.1}{Waste Inflow and Outflow over Time}{chapter.5}% 14
+\BOOKMARK [1][-]{section.5.2}{Waste Processing Capability}{chapter.5}% 15
+\BOOKMARK [1][-]{section.5.3}{Waste Inflow from Collected Data}{chapter.5}% 16
+\BOOKMARK [1][-]{section.5.4}{Waste Generation Density}{chapter.5}% 17
+\BOOKMARK [1][-]{section.5.5}{Working with QGIS}{chapter.5}% 18
+\BOOKMARK [2][-]{subsection.5.5.1}{Heat Maps}{section.5.5}% 19
+\BOOKMARK [0][-]{chapter.6}{Mathematical Model}{}% 20
+\BOOKMARK [1][-]{section.6.1}{Optimal Number of Bins in each Ward}{chapter.6}% 21
+\BOOKMARK [1][-]{section.6.2}{Suggested Locations of Bins in each Ward}{chapter.6}% 22
+\BOOKMARK [1][-]{section.6.3}{Application of the Mathematical Model}{chapter.6}% 23
+\BOOKMARK [0][-]{chapter.7}{Inference}{}% 24
