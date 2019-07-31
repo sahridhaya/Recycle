@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.7.17)  30 JUL 2019 04:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.7.24)  31 JUL 2019 18:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -435,13 +435,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [2
 
 ]
-(./final report final version.lof)
-\tf@lof=\write5
-\openout5 = `"final report final version.lof"'.
-
- [3
-
-]
 Chapter 1.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 114.
 
@@ -450,141 +443,141 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 114.
- [4
+ [3
 
-] [5]
+] [4]
 Chapter 2.
-<ward_map_of_tvm.jpg, id=229, 407.05923pt x 245.22385pt>
+<ward_map_of_tvm.jpg, id=165, 407.05923pt x 245.22385pt>
 File: ward_map_of_tvm.jpg Graphic file (type jpg)
 <use ward_map_of_tvm.jpg>
 Package pdftex.def Info: ward_map_of_tvm.jpg  used on input line 141.
 (pdftex.def)             Requested size: 362.77525pt x 218.5591pt.
 
-LaTeX Warning: Reference `fig:kcr' on page 6 undefined on input line 147.
+LaTeX Warning: Reference `fig:kcr' on page 5 undefined on input line 147.
 
-[6
+[5
 
- <./ward_map_of_tvm.jpg>] [7] [8]
+ <./ward_map_of_tvm.jpg>] [6] [7]
 Chapter 3.
-[9
+[8
 
 ]
-<cent_decent.jpg, id=260, 845.0772pt x 1195.1049pt>
+<cent_decent.jpg, id=198, 845.0772pt x 1195.1049pt>
 File: cent_decent.jpg Graphic file (type jpg)
 <use cent_decent.jpg>
 Package pdftex.def Info: cent_decent.jpg  used on input line 189.
 (pdftex.def)             Requested size: 277.41176pt x 392.30696pt.
- [10 <./cent_decent.jpg>] [11]
-<eng_dia_aero.png, id=273, 432.11438pt x 446.41782pt>
+ [9 <./cent_decent.jpg>] [10]
+<eng_dia_aero.png, id=213, 432.11438pt x 446.41782pt>
 File: eng_dia_aero.png Graphic file (type png)
 <use eng_dia_aero.png>
 Package pdftex.def Info: eng_dia_aero.png  used on input line 213.
 (pdftex.def)             Requested size: 277.41176pt x 286.60558pt.
-<aerobins.jpg, id=274, 400.3758pt x 225.4824pt>
+<aerobins.jpg, id=214, 400.3758pt x 225.4824pt>
 File: aerobins.jpg Graphic file (type jpg)
 <use aerobins.jpg>
 Package pdftex.def Info: aerobins.jpg  used on input line 220.
 (pdftex.def)             Requested size: 320.0935pt x 180.28294pt.
- [12 <./eng_dia_aero.png> <./aerobins.jpg>]
+ [11 <./eng_dia_aero.png> <./aerobins.jpg>]
 Chapter 4.
-<data_collect.jpg, id=282, 451.4466pt x 253.9086pt>
+<data_collect.jpg, id=222, 451.4466pt x 253.9086pt>
 File: data_collect.jpg Graphic file (type jpg)
 <use data_collect.jpg>
 Package pdftex.def Info: data_collect.jpg  used on input line 230.
 (pdftex.def)             Requested size: 298.75264pt x 168.0296pt.
-<ledger_book.png, id=284, 350.81062pt x 426.09187pt>
+<ledger_book.png, id=224, 350.81062pt x 426.09187pt>
 File: ledger_book.png Graphic file (type png)
 <use ledger_book.png>
 Package pdftex.def Info: ledger_book.png  used on input line 239.
 (pdftex.def)             Requested size: 213.39568pt x 259.19397pt.
-[13
+[12
 
  <./data_collect.jpg>]
-<odk.png, id=291, 199.4652pt x 313.6518pt>
+<odk.png, id=233, 199.4652pt x 313.6518pt>
 File: odk.png Graphic file (type png)
 <use odk.png>
 Package pdftex.def Info: odk.png  used on input line 248.
 (pdftex.def)             Requested size: 170.71393pt x 268.45264pt.
-<ODKbuild.png, id=292, 1028.34187pt x 578.16pt>
+<ODKbuild.png, id=234, 1028.34187pt x 578.16pt>
 File: ODKbuild.png Graphic file (type png)
 <use ODKbuild.png>
 Package pdftex.def Info: ODKbuild.png  used on input line 255.
 (pdftex.def)             Requested size: 426.79135pt x 239.95839pt.
- [14 <./ledger_book.PNG> <./odk.png>]
-<odk_flow.png, id=299, 602.25pt x 602.25pt>
+ [13 <./ledger_book.PNG> <./odk.png>]
+<odk_flow.png, id=244, 602.25pt x 602.25pt>
 File: odk_flow.png Graphic file (type png)
 <use odk_flow.png>
 Package pdftex.def Info: odk_flow.png  used on input line 262.
 (pdftex.def)             Requested size: 341.43437pt x 341.44815pt.
- [15 <./ODKbuild.png> <./odk_flow.png>]
+ [14 <./ODKbuild.png> <./odk_flow.png>]
 Chapter 5.
-<waste_inflow_outflow.jpg, id=305, 436.7284pt x 341.92258pt>
+<waste_inflow_outflow.jpg, id=251, 436.7284pt x 341.92258pt>
 File: waste_inflow_outflow.jpg Graphic file (type jpg)
 <use waste_inflow_outflow.jpg>
 Package pdftex.def Info: waste_inflow_outflow.jpg  used on input line 287.
 (pdftex.def)             Requested size: 256.07741pt x 200.49083pt.
-<inflow_outflow_label.png, id=306, 328.97906pt x 248.42813pt>
+<inflow_outflow_label.png, id=252, 328.97906pt x 248.42813pt>
 File: inflow_outflow_label.png Graphic file (type png)
 <use inflow_outflow_label.png>
 Package pdftex.def Info: inflow_outflow_label.png  used on input line 290.
 (pdftex.def)             Requested size: 64.01608pt x 48.33904pt.
-[16
+[15
 
 ]
-<abc_ward.png, id=312, 423.08063pt x 331.2375pt>
+<abc_ward.png, id=257, 423.08063pt x 331.2375pt>
 File: abc_ward.png Graphic file (type png)
 <use abc_ward.png>
 Package pdftex.def Info: abc_ward.png  used on input line 300.
 (pdftex.def)             Requested size: 298.75264pt x 233.90659pt.
- [17 <./waste_inflow_outflow.jpg> <./inflow_outflow_label.PNG> <./abc_ward.png>
+ [16 <./waste_inflow_outflow.jpg> <./inflow_outflow_label.PNG> <./abc_ward.png>
 ]
-<waste_processing.png, id=322, 1391.1975pt x 849.1725pt>
+<waste_processing.png, id=269, 1391.1975pt x 849.1725pt>
 File: waste_processing.png Graphic file (type png)
 <use waste_processing.png>
 Package pdftex.def Info: waste_processing.png  used on input line 314.
 (pdftex.def)             Requested size: 426.79135pt x 260.50676pt.
- [18 <./waste_processing.png>]
-<waste_inflow.png, id=329, 539.76656pt x 411.03563pt>
+ [17 <./waste_processing.png>]
+<waste_inflow.png, id=276, 539.76656pt x 411.03563pt>
 File: waste_inflow.png Graphic file (type png)
 <use waste_inflow.png>
 Package pdftex.def Info: waste_inflow.png  used on input line 325.
 (pdftex.def)             Requested size: 426.79135pt x 325.00937pt.
-<table_waste_dens.png, id=332, 873.2625pt x 1293.33188pt>
+<table_waste_dens.png, id=279, 873.2625pt x 1293.33188pt>
 File: table_waste_dens.png Graphic file (type png)
 <use table_waste_dens.png>
 Package pdftex.def Info: table_waste_dens.png  used on input line 336.
 (pdftex.def)             Requested size: 426.79135pt x 632.10019pt.
- [19 <./waste_inflow.png>] [20 <./table_waste_dens.png>]
-<waste_gen_dens.png, id=342, 712.91344pt x 499.8675pt>
+ [18 <./waste_inflow.png>] [19 <./table_waste_dens.png>]
+<waste_gen_dens.png, id=294, 712.91344pt x 499.8675pt>
 File: waste_gen_dens.png Graphic file (type png)
 <use waste_gen_dens.png>
 Package pdftex.def Info: waste_gen_dens.png  used on input line 345.
 (pdftex.def)             Requested size: 426.79135pt x 299.2516pt.
-<qgis_ui.png, id=344, 794.39185pt x 412.51927pt>
+<qgis_ui.png, id=296, 794.39185pt x 412.51927pt>
 File: qgis_ui.png Graphic file (type png)
 <use qgis_ui.png>
 Package pdftex.def Info: qgis_ui.png  used on input line 355.
 (pdftex.def)             Requested size: 426.79135pt x 221.63036pt.
- [21 <./waste_gen_dens.png>]
-<popdens.png, id=350, 844.65562pt x 597.35672pt>
+ [20 <./waste_gen_dens.png>]
+<popdens.png, id=303, 844.65562pt x 597.35672pt>
 File: popdens.png Graphic file (type png)
 <use popdens.png>
 Package pdftex.def Info: popdens.png  used on input line 365.
 (pdftex.def)             Requested size: 256.07741pt x 181.1043pt.
-<wastedens.png, id=352, 844.65562pt x 597.35672pt>
+<wastedens.png, id=305, 844.65562pt x 597.35672pt>
 File: wastedens.png Graphic file (type png)
 <use wastedens.png>
 Package pdftex.def Info: wastedens.png  used on input line 374.
 (pdftex.def)             Requested size: 256.07741pt x 181.1043pt.
- [22 <./qgis_ui.png> <./popdens.png>]
-[23 <./wastedens.png>]
+ [21 <./qgis_ui.png> <./popdens.png>]
+[22 <./wastedens.png>]
 Chapter 6.
-<mathmod.png, id=365, 655.248pt x 293.4162pt>
+<mathmod.png, id=321, 655.248pt x 293.4162pt>
 File: mathmod.png Graphic file (type png)
 <use mathmod.png>
 Package pdftex.def Info: mathmod.png  used on input line 384.
 (pdftex.def)             Requested size: 341.43437pt x 152.89517pt.
-[24
+[23
 
  <./mathmod.png>]
 
@@ -600,53 +593,60 @@ File: lstlang2.sty 2019/02/27 1.8b listings language file
 (e:/texlive/2019/texmf-dist/tex/latex/listings/lstlang3.sty
 File: lstlang3.sty 2019/02/27 1.8b listings language file
 ) (./barchart.R)
-[25]
-<optimal.png, id=428, 362.7954pt x 254.3904pt>
+[24]
+<optimal.png, id=384, 362.7954pt x 254.3904pt>
 File: optimal.png Graphic file (type png)
 <use optimal.png>
 Package pdftex.def Info: optimal.png  used on input line 414.
 (pdftex.def)             Requested size: 298.75264pt x 209.49037pt.
-<exis.png, id=429, 712.91344pt x 499.8675pt>
+<exis.png, id=385, 712.91344pt x 499.8675pt>
 File: exis.png Graphic file (type png)
 <use exis.png>
 Package pdftex.def Info: exis.png  used on input line 421.
 (pdftex.def)             Requested size: 298.75264pt x 209.47002pt.
- [26 <./optimal.png>]
-<construc.png, id=435, 712.91344pt x 499.8675pt>
+ [25 <./optimal.png>]
+<construc.png, id=394, 712.91344pt x 499.8675pt>
 File: construc.png Graphic file (type png)
 <use construc.png>
 Package pdftex.def Info: construc.png  used on input line 430.
 (pdftex.def)             Requested size: 298.75264pt x 209.47002pt.
- [27 <./exis.png> <./construc.png>]
-<bin_loc.png, id=441, 1027.58907pt x 578.16pt>
+ [26 <./exis.png> <./construc.png>]
+<bin_loc.png, id=400, 1027.58907pt x 578.16pt>
 File: bin_loc.png Graphic file (type png)
 <use bin_loc.png>
 Package pdftex.def Info: bin_loc.png  used on input line 442.
 (pdftex.def)             Requested size: 426.79135pt x 240.126pt.
- [28 <./bin_loc.png>]
-<kochi.png, id=446, 456.7464pt x 321.3606pt>
+ [27 <./bin_loc.png>]
+<kochi.png, id=406, 456.7464pt x 321.3606pt>
 File: kochi.png Graphic file (type png)
 <use kochi.png>
 Package pdftex.def Info: kochi.png  used on input line 453.
 (pdftex.def)             Requested size: 298.75264pt x 210.20587pt.
-<alapuzha.png, id=447, 461.75195pt x 324.48746pt>
+<alapuzha.png, id=407, 461.75195pt x 324.48746pt>
 File: alapuzha.png Graphic file (type png)
 <use alapuzha.png>
 Package pdftex.def Info: alapuzha.png  used on input line 460.
 (pdftex.def)             Requested size: 298.75264pt x 209.93893pt.
- [29 <./kochi.png> <./alapuzha.png>]
+ [28 <./kochi.png> <./alapuzha.png>]
 Chapter 7.
-[30
+[29
+
+] (./final report final version.lof)
+\tf@lof=\write5
+\openout5 = `"final report final version.lof"'.
+
+ [30
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 517.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 520.
  [31
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 517.
- (./final report final version.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 517.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 517.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 520.
+
+(./final report final version.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 520.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 520.
 Package rerunfilecheck Info: File `"final report final version".out' has not ch
 anged.
 (rerunfilecheck)             Checksum: B257D1A92788DD8FC19AA94913E10759;1640.
@@ -654,14 +654,14 @@ anged.
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 517.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 520.
  ) 
 Here is how much of TeX's memory you used:
- 10077 strings out of 492623
- 145550 string characters out of 6133290
- 522485 words of memory out of 5000000
- 13566 multiletter control sequences out of 15000+600000
- 10666 words of font info for 38 fonts, out of 8000000 for 9000
+ 10079 strings out of 492623
+ 145571 string characters out of 6133290
+ 520893 words of memory out of 5000000
+ 13567 multiletter control sequences out of 15000+600000
+ 11013 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,8n,42p,1328b,1910s stack positions out of 5000i,500n,10000p,200000b,80000s
 <e:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><e:/tex
@@ -670,12 +670,12 @@ texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><e:/texlive/2019/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmr6.pfb><e:/texlive/2019/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmr8.pfb><e:/texlive/2019/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmsy10.pfb><e:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmsy8.pfb><e:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pf
-b>
-Output written on "final report final version.pdf" (32 pages, 8198709 bytes).
+/cmsy8.pfb><e:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pf
+b><e:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on "final report final version.pdf" (32 pages, 8210844 bytes).
 PDF statistics:
- 545 PDF objects out of 1000 (max. 8388607)
- 454 compressed objects within 5 object streams
+ 549 PDF objects out of 1000 (max. 8388607)
+ 457 compressed objects within 5 object streams
  143 named destinations out of 1000 (max. 500000)
  341 words of extra memory for PDF output out of 10000 (max. 10000000)
 
